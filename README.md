@@ -25,7 +25,7 @@
 
 ## Фото
 
-![Моё фото](C:\Users\Admin\Desktop\my-portfolio\photo.JPG)
+![Моё фото]([C:\Users\Admin\Desktop\my-portfolio\photo.JPG](https://github.com/MarinaSazonenko/my-portfolio/blob/main/photo.JPG))
 
 
 ---
